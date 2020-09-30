@@ -1,0 +1,3 @@
+m_cache.code-workspace
+storage/logs/*
+!storage/logs/.gitignore
